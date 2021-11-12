@@ -12,3 +12,6 @@
 交流（comminicate）：https://discord.gg/bJnRrzeG5r
 
 视频教程（Video tutorial）：https://www.youtube.com/channel/UCxPuAYCdXme33Vrnzt5oHSw
+
+# 捐赠 Donate
+XMR : 42ESz1RpvHJ7mtWSv8K6VN9fAVg3m18fo71tFx6zomqTPDa33oiFA22aPvvsj2s8zD8pDsGDaeyMTM5NDoV6N4b1SPcUjcB
