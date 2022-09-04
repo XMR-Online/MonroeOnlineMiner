@@ -12,13 +12,15 @@
 "Monero Online-Miner" is a graphical miner tool that supports Chinese and English. It can mine coins such as XMR\ARQMA\DERO\GRAFT\KEVA\SUMO\WOWNERO\Turlecoin, but XMR is still the mainstay. The biggest difference between it and the traditional Monero coin mining tools is that Monero Online-all operations of the miners are visual operations, the work log display is also concise and clear, and the operation is very convenient.
 
 # 其它 other
-可以通过这里下载最新版（You can download the latest version here）：https://www.mediafire.com/folder/5ftz3rt79ht3k/XMR-Online-Miner
+可以通过这里下载最新版（You can download the latest version here）：https://xmr-online.github.io/#Download
 
 可以通过这个邮箱联系我们（You can contact us through this email）：xmrOnlineMiner@gmail.com
 
 交流（comminicate）：https://discord.gg/bJnRrzeG5r
 
 视频教程（Video tutorial）：https://www.youtube.com/channel/UCxPuAYCdXme33Vrnzt5oHSw
+
+文档教程（Doc tutorial）：https://online-xmr.gitbook.io/xmronline
 
 # 捐赠 Donate
 XMR : 42ESz1RpvHJ7mtWSv8K6VN9fAVg3m18fo71tFx6zomqTPDa33oiFA22aPvvsj2s8zD8pDsGDaeyMTM5NDoV6N4b1SPcUjcB
