@@ -1,4 +1,9 @@
 # MonroeOnlineMiner
+
+
+![image](https://github.com/XMR-Online/MonroeOnlineMiner/blob/a638802d74d026f6ad410f9c23ee1b0533316627/ico1.png)
+
+
 <p align="center">
 ![image](https://github.com/XMR-Online/MonroeOnlineMiner/blob/a638802d74d026f6ad410f9c23ee1b0533316627/ico1.png)
 </p>
