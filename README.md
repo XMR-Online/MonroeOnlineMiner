@@ -4,12 +4,7 @@
 ![Image text](https://github.com/XMR-Online/MonroeOnlineMiner/blob/a638802d74d026f6ad410f9c23ee1b0533316627/ico1.png)
 
 
-<p align="center">
-![Image text](https://github.com/XMR-Online/MonroeOnlineMiner/blob/a638802d74d026f6ad410f9c23ee1b0533316627/ico1.png)
-</p>
-<p align="center">
-  MO-M (XMROnline-Miner)
-</p>
+
 
 # 门罗在线-矿工
 《门罗在线-矿工》是一款图形化的矿工工具，支持中英文，可以挖取 XMR\ARQMA\DERO\GRAFT\KEVA\SUMO\WOWNERO\Turlecoin 等币，不过还是以XMR为主。它与传统的门罗币挖矿工具最大的不同之处，就在于门罗在线-矿工的一切操作都是可视化操作，工作日志显示也简洁明了，操作十分方便操作。
