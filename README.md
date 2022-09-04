@@ -1,6 +1,6 @@
 # MonroeOnlineMiner
 <p align="center">
-![image](https://user-images.githubusercontent.com/XMR-Online/MonroeOnlineMiner/main/ico1.png)
+![image](https://github.com/XMR-Online/MonroeOnlineMiner/blob/main/ico1.png)
 </p>
 <p align="center">
   MO-M (XMROnline-Miner)
