@@ -1,4 +1,5 @@
 # MonroeOnlineMiner
+![image](https://github.com/XMR-Online/MonroeOnlineMiner/blob/main/ico1.png)
 <p align="center">
 ![image](https://github.com/XMR-Online/MonroeOnlineMiner/blob/main/ico1.png)
 </p>
